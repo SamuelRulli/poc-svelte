@@ -1,3 +1,5 @@
+Integration project with viaCep to validate the concepts of Svelte and its functionalities. In this POC, components, service integration, layout, and TypeScript interface were tested.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
